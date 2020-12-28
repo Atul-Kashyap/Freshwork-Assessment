@@ -1,6 +1,6 @@
 # Freshwork Assessment
 - [Problem Statement](#problem-statement)    
-- [Approach](#approach)
+- [Approach](#Approach)
     
     
     
@@ -33,7 +33,9 @@ The data store will support the following :
     
     The file is accessed by multi-threading.
     
-**Approach**
+# Approach 
+
+....
 
 
 
