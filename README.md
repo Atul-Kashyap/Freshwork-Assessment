@@ -29,7 +29,7 @@ The data store will support the following :
     
     Appropriate error responses must always be returned to a client if it uses the data store in unexpected ways or breaches any limits.
     
-    The file size never exceeds 1GB.
+    The file size never exceed 1GB.
     
     The file is accessed by multi-threading.
     
