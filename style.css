@@ -1,0 +1,28 @@
+body{
+    font-style: italic;
+    background-color: #932432;
+}
+
+h1{
+  text-align: center;
+}
+.create, .read, .update {
+    border: 4px solid #eee;
+    padding: 2.5rem;
+    width: 25rem;
+    text-align: center;
+    display: block;
+    margin-bottom: 3rem; 
+}
+
+/* 
+.right {
+    width: 12rem;
+    font-size: 2rem;
+  } */
+
+  /* .message {
+    margin-bottom: 8rem;
+    height: 3rem;
+  } */
+  
