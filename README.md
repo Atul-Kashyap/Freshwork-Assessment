@@ -38,7 +38,7 @@ The data store will support the following :
 ....
 
 
-
+![](https://github.com/Atul-Kashyap/Freshwork-Assessment/blob/main/images/HomePage.PNG) 
 
 
 - [Go Up](#freshwork-Assessment)
